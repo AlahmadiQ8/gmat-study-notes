@@ -54,7 +54,7 @@ Another technique
 99 * 237 = (100 - 1) * 237 = 23700 - 237 = 23463
 ```
 
-# Use of Scientific Notation
+## Use of Scientific Notation
 
 ```
   673 * 19423
