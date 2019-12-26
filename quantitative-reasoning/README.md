@@ -1,6 +1,6 @@
 # Notes
 
-- [Multiplications to Memorize](/quantitative-reasoning/multiplications-to-memorize.md)
+- [Memorizations](/quantitative-reasoning/memorizations.md)
 
 # Skill Builders
 
