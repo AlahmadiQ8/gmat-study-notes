@@ -1,3 +1,7 @@
+# Notes
+
+- [Multiplications to Memorize](/quantitative-reasoning/multiplications-to-memorize.md)
+
 # Skill Builders
 
 ## Integers
@@ -48,4 +52,13 @@ Another technique
 
 ```
 99 * 237 = (100 - 1) * 237 = 23700 - 237 = 23463
+```
+
+# Use of Scientific Notation
+
+```
+  673 * 19423
+= 6.73 * 10^2 * 1.9423 * 10^4
+= (<7) * (<2) * 10^6 
+< 14 million
 ```
