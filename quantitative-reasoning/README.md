@@ -62,3 +62,7 @@ Another technique
 = (<7) * (<2) * 10^6 
 < 14 million
 ```
+
+## Lower Common Denominator
+
+![](/quantitative-reasoning/lcd.jpg)

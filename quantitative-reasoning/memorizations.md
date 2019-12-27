@@ -1,4 +1,4 @@
-# Multiplications To Memorize
+# Memorizations
 
 ## Powers of 2
 
