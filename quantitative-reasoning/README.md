@@ -66,3 +66,21 @@ Another technique
 ## Lower Common Denominator
 
 ![](/quantitative-reasoning/lcd.jpg)
+
+## Prime Numbers
+
+Prime number:
+
+- Positive Integer
+- Divisible by **exactly two factors**: 1 and itself
+
+Not a prime number: 
+
+- 1 (only has 1 factor)
+- 0 (not positive - and not divisible by itself)
+
+2 is **the only even prime** number
+
+## Universal Divisibility Strategy 
+
+![](universal-divisibility-strategy.png)
