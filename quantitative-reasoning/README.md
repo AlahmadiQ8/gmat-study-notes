@@ -84,3 +84,4 @@ Not a prime number:
 ## Universal Divisibility Strategy 
 
 ![](universal-divisibility-strategy.png)
+![](universal-divisibility-strategy-2.png)
