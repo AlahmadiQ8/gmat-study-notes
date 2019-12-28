@@ -85,3 +85,20 @@ Not a prime number:
 
 ![](universal-divisibility-strategy.png)
 ![](universal-divisibility-strategy-2.png)
+
+## Greatest Common Factor (GCF)
+
+Largest number that is a divisor of each of a set of numbers. 
+
+- Start with **prime factorization** of the numbers involved.
+- Pick out **which factors are in common** (only those in common).
+  
+Example: Find the GCF of 12 and 18
+
+```
+12 = 2 * 2 * 3
+     ^       ^
+18 = 2 * 3 * 3
+     ^   ^
+GCF = 2 * 3 = 6
+```
