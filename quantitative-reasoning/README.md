@@ -65,7 +65,7 @@ Another technique
 
 ## Lower Common Denominator
 
-![](/quantitative-reasoning/lcd.jpg)
+![](/quantitative-reasoning/zz_lcd.jpg)
 
 ## Prime Numbers
 
@@ -83,8 +83,8 @@ Not a prime number:
 
 ## Universal Divisibility Strategy 
 
-![](universal-divisibility-strategy.png)
-![](universal-divisibility-strategy-2.png)
+![](zz_universal-divisibility-strategy.png)
+![](zz_universal-divisibility-strategy-2.png)
 
 ## Greatest Common Factor (GCF)
 
