@@ -46,17 +46,31 @@
 # Prime Numbers
 
 ```
-2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31
+2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37
 ```
 
 # Divisibility Rules
 
-| number | condition                                | example       |
-| ------ | ---------------------------------------- | ------------- |
-| 2      | If even                                  | 122 = 61 * 2  |
-| 3      | If sum of digis divisible by 3           | 528 = 176 * 3 |
-| 4      | If last 2 digits divisible by 4          | 724 = 181 * 4 |
-| 5      | If last digit is a 5 or 0                | 255 = 51 * 5  |
-| 6      | If even and sum of digits divisible by 3 | 222 = 37 * 6  |
-| 9      | If sum of digits divisible by 9          | 558 = 62 * 9  |
-| 10     | If last digit is 0                       | 420 = 42 * 10 |
+| number | condition                                | example         |
+| ------ | ---------------------------------------- | --------------- |
+| 2      | If even                                  | 122 = 61 * 2    |
+| 3      | If sum of digis divisible by 3           | 528 = 176 * 3   |
+| 4      | If last 2 digits divisible by 4          | 724 = 181 * 4   |
+| 5      | If last digit is a 5 or 0                | 255 = 51 * 5    |
+| 6      | If even and sum of digits divisible by 3 | 222 = 37 * 6    |
+| 9      | If sum of digits divisible by 9          | 558 = 62 * 9    |
+| 10     | If last digit is 0                       | 420 = 42 * 10   |
+| 25     | If last 2 digits is divisible by 25      | 0, 25, 50, 75.. |
+
+# Even/Odd Number Properties
+
+| Addition/Substration |      |     | Addition/Multiplication |      |
+| -------------------- | ---- | --- | ----------------------- | ---- |
+| Odd +/- Odd          | Even |     | Odd * Odd               | Odd  |
+| Odd +/- Even         | Odd  |     | Odd * Even              | Even |
+| Even +/- Even        | Even |     | Even * Even             | Even |
+
+
+
+
+

@@ -98,3 +98,12 @@ Example: Find the GCF of 12 and 18
      ^   ^
 GCF = 2 * 3 = 6
 ```
+
+## How high do you test for a factor? 
+
+- **The Rule:** Test up until the square root of the next perfect square
+- **Example:** Is 113 prime? Test up to 11 (Square root of 121)
+
+## Trick to find the total number of unique factors
+
+![](zz_trick-number-of-factors.png)
