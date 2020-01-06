@@ -70,7 +70,8 @@
 | Odd +/- Even         | Odd  |     | Odd * Even              | Even |
 | Even +/- Even        | Even |     | Even * Even             | Even |
 
+# The ONLY numbers with only 3 factors are squares of prime numbers
 
-
+For example, `4, 9, 25, 49, or 121...` and so on.
 
 
