@@ -43,3 +43,35 @@
 | **Weaken**              | Add new information that will undermine an existing conclusion |
 | **Inference**           | Draw your own inference or conclusion                          |
 | **Method of Reasoning** | Analyze and either describe or mimic the line of reasoning     |
+
+## SWIM Tips 
+
+![](zz_swim_tips.png)
+
+## Common Fallacies/Gaps
+
+1. Causation vs. Correlation
+2. Generalization
+3. Data & Statistical Flaws
+
+## Assumption Negation 
+
+An important technique to eliminate answer choices in assumption questions.
+
+Negate each answer and see if the conclusion still holds or not. 
+If it still holds, then it's a wrong answer.
+
+The answer should be an assumption that the conclusion *requires* but not further it along.
+
+
+## Tips
+
+- In an Inference question, the first line of defense is the “no new information” filter. 
+- Valid conclusions must *always* (not just sometimes) be true, and therefore must be based entirely
+  on the information found in the premises.
+- In Stengthen/Weaken Questions, first identify the argument's conclusion. Then find the gaps between
+  the conclusion and its premises. 
+
+> Animals could make major changes in their behavior **only if** they were capable of complex reasoning.
+
+- "Only if" means that it's the *only single possible way*. Watch out.
