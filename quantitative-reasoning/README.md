@@ -1,5 +1,5 @@
 # Contents
 
 - [Arithmatic](arithmatic.md)
-- [Memorizations](memorizations.md)
+- [Algebra](algebra.md)
 
