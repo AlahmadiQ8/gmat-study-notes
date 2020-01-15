@@ -25,3 +25,9 @@ y = 2 --> 2x + 6 = 8 --> x = 1
 ## Common Quadratic Formulas to Memorize
 
 ![](zz_algrebra_quad.png)
+
+![](zz_algebra_diff.png)
+
+## Watch Out of Inequalities
+
+![](zz_algebra_inequalities.png)
