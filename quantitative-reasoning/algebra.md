@@ -1,3 +1,8 @@
+- [Elimination Method for Solving Simultaneous Equations](#elimination-method-for-solving-simultaneous-equations)
+- [Properties of Exponents](#properties-of-exponents)
+- [Common Quadratic Formulas to Memorize](#common-quadratic-formulas-to-memorize)
+- [Watch Out of Inequalities](#watch-out-of-inequalities)
+
 ## Elimination Method for Solving Simultaneous Equations
 
 ```
