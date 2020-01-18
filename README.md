@@ -10,4 +10,5 @@
 ### Verbal Reasoning
 
 - [Critical Reasoning](verbal-reasoning/critical-reasoning.md)
+- [Sentence Correction](verbal-reasoning/sentence-correction.md)
 

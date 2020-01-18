@@ -1,4 +1,12 @@
-# Critical Reasoning
+- [Examples for Conclusion Language Words](#examples-for-conclusion-language-words)
+- [Examples for Call for Action Words](#examples-for-call-for-action-words)
+- [Examples for Premise Wording to Set up a Conclusion](#examples-for-premise-wording-to-set-up-a-conclusion)
+- [Four types of Reasoning Questions](#four-types-of-reasoning-questions)
+- [Reading Critically](#reading-critically)
+- [SWIM Tips](#swim-tips)
+- [Common Fallacies/Gaps](#common-fallaciesgaps)
+- [Assumption Negation](#assumption-negation)
+- [Tips](#tips)
 
 ## Examples for Conclusion Language Words
 
