@@ -1,3 +1,6 @@
+<details><summary>Content</summary>
+<p>
+
 - [Examples for Conclusion Language Words](#examples-for-conclusion-language-words)
 - [Examples for Call for Action Words](#examples-for-call-for-action-words)
 - [Examples for Premise Wording to Set up a Conclusion](#examples-for-premise-wording-to-set-up-a-conclusion)
@@ -7,6 +10,9 @@
 - [Common Fallacies/Gaps](#common-fallaciesgaps)
 - [Assumption Negation](#assumption-negation)
 - [Tips](#tips)
+</p>
+</details>
+
 
 ## Examples for Conclusion Language Words
 
