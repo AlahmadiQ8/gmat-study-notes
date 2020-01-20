@@ -1,3 +1,16 @@
+<details><summary>Content</summary>
+<p>
+
+- [Parts of Speech](#parts-of-speech)
+- [Parts of a Sentence](#parts-of-a-sentence)
+- [Building Block of Grammmar](#building-block-of-grammmar)
+- [Illogical Meaning](#illogical-meaning)
+  - [1. Faulty Dictation](#1-faulty-dictation)
+  - [2. Improper Dictation](#2-improper-dictation)
+  - [3. Redundancy](#3-redundancy)
+</p>
+</details>
+
 
 ## Parts of Speech
 
@@ -16,3 +29,15 @@
 ## Illogical Meaning
 
 ![](zz_sentence_illogical.png)
+
+### 1. Faulty Dictation
+
+![](zz_sentence_faulty.png)
+
+### 2. Improper Dictation
+
+![](zz__sentence_improper.png)
+
+### 3. Redundancy
+
+![](zz_sentence_redundancy.png)
