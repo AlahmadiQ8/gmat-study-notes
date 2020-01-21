@@ -12,7 +12,6 @@
   - [1. Prepositional Phrases](#1-prepositional-phrases)
   - [2. Participial Phrases](#2-participial-phrases)
     - [Rules for Participial Phrases](#rules-for-participial-phrases)
-      - [1. If a participial phrase begins the sentence, it must logically modify the noun that follows the comma](#1-if-a-participial-phrase-begins-the-sentence-it-must-logically-modify-the-noun-that-follows-the-comma)
 </p>
 </details>
 
@@ -95,7 +94,7 @@ Examples:
 
 #### Rules for Participial Phrases
 
-##### 1. If a participial phrase begins the sentence, it must logically modify the noun that follows the comma
+1. If a participial phrase begins the sentence, it must logically modify the noun that follows the comma
 
 - **Error:** Alarmed by the recent decline of the stock market, many 
   retirement **investments** have been switched from stocks to more 
@@ -104,4 +103,25 @@ Examples:
   many **investors** have switched their retirement investments 
   from stocks to more conservative options, such as money
   market funds.
+
+
+2. If used in the middle of a sentence, a participial phrase follows 
+   the noun it modifies, and may or may not be set off by commas 
+   (depending on whether the information is essential).
+
+- Examples:
+  - Dogs trained by professionals are generally very obedient.
+  - The city’s oldest church, recently destroyed by fire, has not yet been rebuilt.
+  - **Error:** Children, introduced to music early, develop strong intellectual skills.
+  - **Corrected:** Children introduced to music early develop strong intellectual skills.
+
+3. If a participial phrase directly follows a comma and ends the sentence,
+it can modify the subject of the preceding clause even though
+the participial phrase is far from the word modified.
+
+- Examples: 
+  - **Nadal** beat Federer in five sets, **shocking the tennis world**.
+  - **Kit Carson** roamed the Rockies and the Southwest, **working asa trapper** and 
+    **establishing** a reputation as one of the most able mountain men of his time.
+
 
