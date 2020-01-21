@@ -12,6 +12,8 @@
   - [1. Prepositional Phrases](#1-prepositional-phrases)
   - [2. Participial Phrases](#2-participial-phrases)
     - [Rules for Participial Phrases](#rules-for-participial-phrases)
+  - [3. Appositive Phrases](#3-appositive-phrases)
+  - [4. Relative Clauses](#4-relative-clauses)
 </p>
 </details>
 
@@ -61,7 +63,7 @@ When a prepositional phrase serves as an adverb,
 its location may vary.
 
 
-- **Correct:** Correct: Visitors to the zoo have often looked up into the leafy aviary and 
+- **Correct:** Visitors to the zoo have often looked up into the leafy aviary and 
   seen macaws resting on the branches, with tails trailing like brightly colored splatters of 
   paint on a green canvas.
 - **Incorrect:** Bill usually drops any groceries he has brought home from his job on the 
@@ -123,5 +125,41 @@ the participial phrase is far from the word modified.
   - **Nadal** beat Federer in five sets, **shocking the tennis world**.
   - **Kit Carson** roamed the Rockies and the Southwest, **working asa trapper** and 
     **establishing** a reputation as one of the most able mountain men of his time.
+
+### 3. Appositive Phrases
+
+- A noun phrase that serves the role of an adjective. 
+- Almost always provide non essential info, so set off with a comma.
+- Same rules as participial phrases *except* an appositive may not be 
+  far from the modifier
+
+Examples: 
+- John, the lead singer of the band, has larungitis.
+- A gifted student and talented musician, John graduated 
+  from USC with highest honors.
+- John spent his last weekend visiting USC, his alma mater.
+
+### 4. Relative Clauses
+
+- A subordinate clause used to modify a noun
+- Starts with a relative pronoun
+- Mostcommon: Who, Which, That, Where, Whose, Whom
+- If non-essential information, separate with commas
+- Most common mistakes
+  - Using relative clause to modify action in the sentence
+  - Placing relative clause too far from the noun modified
+
+Examples:
+- The boy who lives next door is my friend.
+- Susan, who lives next door, is coming to the party.
+- The dog that Bill found belongs to my neighbor.
+- My car, which breaks down regularly , has become expensive to own.
+- **Error:** It rained yesterday, which forced me to cancel the event.
+- **Corrected:** It rained yesterday, and as a result | was forced to cancel the event.
+- **Error:** The deposit that | put on the house, which is non-refundable, 
+  is in jeopardy if | cannot get financing.
+- **Corrected:** The non-refundable deposit that | put on the house is in jeopardy
+if cannot get financing.
+
 
 
