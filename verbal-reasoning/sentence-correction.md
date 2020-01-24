@@ -3,7 +3,6 @@
 
 - [Parts of Speech](#parts-of-speech)
 - [Parts of a Sentence](#parts-of-a-sentence)
-- [Building Block of Grammmar](#building-block-of-grammmar)
 - [Illogical Meaning](#illogical-meaning)
   - [1. Faulty Dictation](#1-faulty-dictation)
   - [2. Improper Dictation](#2-improper-dictation)
@@ -27,10 +26,6 @@
 ![](zz_sentence_part_of_speech.png)
 
 ![](zz_parts_of_sentence_2.png)
-
-## Building Block of Grammmar
-
-![](zz_sentence_building_block_of_grammer.png)
 
 ## Illogical Meaning
 
@@ -161,5 +156,58 @@ Examples:
 - **Corrected:** The non-refundable deposit that | put on the house is in jeopardy
 if cannot get financing.
 
+## Pronoun Errors
 
+### Reference error: pronoun lacks clear antecedent.
+
+- **Incorrect:** Green and Holmes played, and he scored a touchdown.
+- **Corrected:** Green and Holmes played, and Holmes scored a touchdown.
+- **Incorrect:** Bill sent many e-mails to John while he was out of the office on vacation.
+- **Corrected:** While Bill was out of the office on vacation, he sent many e-mails to John.
+
+**Clues:** Sentence contains one or more pronouns.
+
+**Tip:** Ensure that each pronoun clearly refers to a specific noun.
+
+### Pronoun Cases
+
+![](zz_sentence_pronoun_cases.png)
+
+## Agreement Errors
+
+![](zz_sentence_agreement_error_1.png)
+
+## Comparison Errors
+
+| Plural/Countable | Singular/Uncountable |
+| ---------------- | -------------------- |
+| X                | Ys                   |
+| Amount           | Number               |
+| Ex: water        | Ex: gallons          |
+| Much             | Many                 |
+| More             | More                 |
+| Little           | Few                  |
+| Less             | Fewer                |
+
+| Just 2      | More than 2 |
+| ----------- | ----------- |
+| Comparative | Superlative |
+| Stronger    | Strongest   |
+| Between     | Among       |
+| The other   | Another     |
+| Each other  | One another |
+
+|                          | Equality/Inequality | Threshold level |
+| ------------------------ | ------------------- | --------------- |
+| **Countable Plural**     | As many as          | So many that    |
+|                          | More than           |                 |
+|                          | Fewer than          |                 |
+|                          | Not so many as      |                 |
+| **Uncountable Singular** | As much as          | So much that    |
+|                          | More than           |                 |
+|                          | Less than           |                 |
+|                          | Not so much as      |                 |
+
+
+ 
 
