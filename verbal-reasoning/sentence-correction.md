@@ -13,6 +13,11 @@
     - [Rules for Participial Phrases](#rules-for-participial-phrases)
   - [3. Appositive Phrases](#3-appositive-phrases)
   - [4. Relative Clauses](#4-relative-clauses)
+- [Pronoun Errors](#pronoun-errors)
+  - [Reference error: pronoun lacks clear antecedent.](#reference-error-pronoun-lacks-clear-antecedent)
+  - [Pronoun Cases](#pronoun-cases)
+- [Agreement Errors](#agreement-errors)
+- [Comparison Errors](#comparison-errors)
 </p>
 </details>
 
