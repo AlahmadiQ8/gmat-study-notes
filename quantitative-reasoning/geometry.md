@@ -11,6 +11,9 @@
 - [Quadrilaterals](#quadrilaterals)
 - [Circles](#circles)
   - [Arcs & Inscribed Angles](#arcs--inscribed-angles)
+- [Coordinates](#coordinates)
+  - [Slope](#slope)
+  - [Distance Formula](#distance-formula)
 
 ## Triangles
 
@@ -66,4 +69,25 @@
 
 ![](zz_geometry_circles_arcs_1.png)
 
+## Coordinates
 
+### Slope
+
+```
+y = mx + b --> m = slope
+Slope = (y2 - y1) / (x2 - x1)
+```
+
+### Distance Formula 
+
+```
+Distance = sqrt((x2 - x1)^2 + (y2 - y1)^2)
+```
+
+If lines are perpendiculr, then slopes are negative reciprocals
+  
+```
+Line 1: y = 2x + 4
+Line 2: y = -1/2 + 2
+Line 1 is perpendicular to Line 2
+```
