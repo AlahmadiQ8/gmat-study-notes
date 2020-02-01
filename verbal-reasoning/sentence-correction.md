@@ -213,6 +213,10 @@ if cannot get financing.
 |                          | Less than           |                 |
 |                          | Not so much as      |                 |
 
+## Tips
 
+- `neither x nor y` and `either x or y`: the pronoun must agree with the second thing:
+  - Ex: `neither nachos nor pizza is delived`
+  - Ex: `neither pizza nor nachos are delived`
  
 
