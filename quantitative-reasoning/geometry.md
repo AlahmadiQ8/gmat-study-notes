@@ -55,6 +55,8 @@
 | Ratio  | 1x    | sqrt(3) * x   | 2x  |
 | Length | 1/2 S | 1/2 S sqrt(3) | S   |
 
+- Area = `Sqrt(3) / 4 * S^2`
+
 ![](zz_geometry_equilateral.png)
 
 ## Quadrilaterals
