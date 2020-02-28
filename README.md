@@ -7,6 +7,7 @@
 - [Arithmatic](quantitative-reasoning/arithmatic.md)
 - [Algerba](quantitative-reasoning/algebra.md)
 - [Geometry](quantitative-reasoning/geometry.md)
+- [Data Sufficiency](quantitative-reasoning/data-sufficiency.md)
 
 ### Verbal Reasoning
 
