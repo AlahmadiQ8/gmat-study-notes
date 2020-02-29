@@ -10,6 +10,8 @@ Pitfalls to avoid:
   - e.g `The surface area of a rectangular field` does **not** mean 3d but just 2d rectangular area
 - Don't always pick number and consider applying algebra 
 - Do Not Fucking forget what the question is asking
+- I Forgot the **Zero**
+- When a questions asks about quotient, don't forget to test smaller numbers. E.g 1!
 
 ------
 
