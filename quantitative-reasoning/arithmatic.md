@@ -6,7 +6,7 @@
 - [Substraction Drill](#substraction-drill)
 - [Simplifying Calculations](#simplifying-calculations)
 - [Use of Scientific Notation](#use-of-scientific-notation)
-- [Lower Common Denominator](#lower-common-denominator)
+- [Lower Common Denominator (Lowest Common Multiple)](#lower-common-denominator-lowest-common-multiple)
 - [Prime Numbers](#prime-numbers)
 - [Universal Divisibility Strategy](#universal-divisibility-strategy)
 - [Greatest Common Factor (GCF)](#greatest-common-factor-gcf)
@@ -80,7 +80,7 @@ Another technique
 < 14 million
 ```
 
-## Lower Common Denominator
+## Lower Common Denominator (Lowest Common Multiple)
 
 ![](/quantitative-reasoning/zz_lcd.jpg)
 

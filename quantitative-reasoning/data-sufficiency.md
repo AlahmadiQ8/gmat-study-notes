@@ -1,6 +1,22 @@
 <!-- omit in toc -->
 # Data Sufficiency
 
+You should easily recognize that 14,749 is divisible by 7
+
+Expremely important formula for Venn Diagram problems:
+- `Total = Group A + Group B – Both + Neither`
+
+The greatest common factor (GCF) between any consecetive non zero number is **always 1**.
+
+Every number is a factor of zero. 
+
+with inequality, **do not divide** by variable unless u know if it's posirtive or negative
+
+Prime numbers must be positive
+
+When dealing with quotients:
+- `x/y = 13.8 ==> x = 13y + 0.8*y`
+
 Pitfalls to avoid:
 - I keep falling in the trap of unconciously using information from 
   the first clue even though it's unneeded
