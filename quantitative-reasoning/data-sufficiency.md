@@ -3,6 +3,8 @@
 
 You should easily recognize that 14,749 is divisible by 7
 
+If you can't prove C, pick E
+
 Expremely important formula for Venn Diagram problems:
 - `Total = Group A + Group B – Both + Neither`
 
