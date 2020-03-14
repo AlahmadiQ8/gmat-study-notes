@@ -8,6 +8,7 @@
 - [Algerba](quantitative-reasoning/algebra.md)
 - [Geometry](quantitative-reasoning/geometry.md)
 - [Data Sufficiency](quantitative-reasoning/data-sufficiency.md)
+- [Probability and Statistics](/quantitative-reasoning/probability-statistics.md)
 
 ### Verbal Reasoning
 
