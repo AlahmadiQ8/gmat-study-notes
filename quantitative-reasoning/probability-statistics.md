@@ -18,6 +18,17 @@ Examples:
 
 To find mean and median quickly, average the first and last terms
 
+Example:
+
+```
+What is the sum of all even integers from 650 to 750, inclusive? 
+
+There are 50 + 1 even numbers
+
+(Sum of Evens) / 51 = 700 (mean/average) because evenly spaced 
+Sum of Evens = 35700
+```
+
 ## Average vs Sum of Terms
 
 If number of terms does not change,
@@ -35,3 +46,30 @@ Actual sum: 85 points
 
 Percentage difference: (85 - 100)/100 * 100% = -15%
 ```
+
+## Permutations & Combinations
+
+When elements repeat: 
+
+```
+N! / ( A! * B! * C! ... )
+
+A, B, C, etc. represent the number of times each item apprears
+```
+
+
+```
+Combinations:
+
+N! / ( K! (N - K) )
+
+Permutations: 
+
+N! / (N - K)!
+```
+
+## Number of Multiples
+
+```
+# Multiples = (Max - Min) / N + 1
+```
