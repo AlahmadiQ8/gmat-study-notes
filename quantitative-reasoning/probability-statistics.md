@@ -45,7 +45,7 @@ Goal: 20 points/game * 5 games = 100 points
 Actual sum: 85 points
 
 Percentage difference: (85 - 100)/100 * 100% = -15%
-```
+```
 
 ## Permutations & Combinations
 
