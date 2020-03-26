@@ -49,7 +49,7 @@ Percentage difference: (85 - 100)/100 * 100% = -15%
 
 ## Permutations & Combinations
 
-When elements repeat, number of combinations
+When elements repeat, number of Permutations
 
 ```
 N! / ( A! * B! * C! ... )
@@ -61,7 +61,7 @@ A, B, C, etc. represent the number of times each item apprears
 ```
 Combinations:
 
-N! / ( K! (N - K) )
+N! / ( K! (N - K)! )
 
 Permutations: 
 
