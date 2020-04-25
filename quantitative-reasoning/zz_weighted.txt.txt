@@ -1,0 +1,11 @@
+At company A, 20% of the females are over 50 years old, 50% of the
+males are over 50 years old, and 45% of all the employees are over 50
+years old. Are there more males or females in the company?
+20% + 50%
+
+2
+
+If same number of females and males, = 35% over 50
+
+Average is closer to the percentage of males over 50, so more males
+

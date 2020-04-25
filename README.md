@@ -9,6 +9,7 @@
 - [Geometry](quantitative-reasoning/geometry.md)
 - [Data Sufficiency](quantitative-reasoning/data-sufficiency.md)
 - [Probability and Statistics](/quantitative-reasoning/probability-statistics.md)
+- [Words](quantitative-reasoning/words.md)
 
 ### Verbal Reasoning
 
