@@ -17,3 +17,6 @@
 - [Sentence Correction](verbal-reasoning/sentence-correction.md)
 - [Reading Comprehension](verbal-reasoning/reading_comprehension.md)
 
+### AWA and Integrated Reasnoning
+
+- [Analytical Writing Assessment](Integrated-Reasoning/README.md)
